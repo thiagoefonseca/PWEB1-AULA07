@@ -1,0 +1,59 @@
+.titulo{
+    color: chartreuse;
+}
+
+.imagem1{
+    text-align: center;
+    margin: auto;
+    display: block;
+
+}
+
+.imagem2{
+    text-align: center;
+}
+
+.Conteudo1{
+    font-size: 14px;
+    color: black;
+    background-color: blueviolet;
+    border: 5px solid black;
+    margin:  25px 25px 25px 25px;
+    padding: 10px 10px 10px 10px;
+
+}
+
+.Conteudo2{
+    font-size: 20px;
+    color: black;
+    background-color: darkred;
+    margin-left: 25px;
+    margin-top: 15px;
+    padding-left: 25px;
+    padding-top: 15px;
+    border-width: 10px;
+    border-style: dashed;
+    border-color: darksalmon;
+
+}
+
+.Conteudo3{
+    font-size: 25px;
+    color: rgb(221, 10, 10);
+    background-color: rgb(10, 4, 4);
+    margin-left: 25px;
+    margin-top: 15px;
+    padding-left: 25px;
+    padding-top: 15px;
+    border-width: 10px;
+    border-style: double;
+    border-color: rgb(21, 32, 182);
+}
+
+.linha{
+    display: flex;
+    justify-content: center;
+
+
+
+}
